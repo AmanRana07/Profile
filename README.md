@@ -51,9 +51,9 @@ I'm a **Data Scientist** and **Software Developer** with a passion for machine l
 ---
 
 ## 📈 Projects
-- **[Smart Examination Portal]([link-to-your-project](https://github.com/AmanRana07/Smart-Examination-Portal-with-AI-Proctoring.git)**: A proctoring system using YOLO and OpenCV.
-- **[Celebrity Recognition App](link-to-your-project)**: A web app to identify celebrities using CNN.
-- **[Stock Price Prediction](link-to-your-project)**: Using GRU to forecast stock prices.
+- **[Smart Examination Portal](https://github.com/AmanRana07/Smart-Examination-Portal-with-AI-Proctoring.git)**: A proctoring system using YOLO and OpenCV.
+- **[Celebrity Recognition App](https://github.com/AmanRana07/Cricket-Prediction-and-Analysis-Using-Java.git)**: A web app to identify celebrities using CNN.
+- **[OmniCart](https://github.com/AmanRana07/OmniCart.git)**: Ecommerce Website
 
 ---
 
