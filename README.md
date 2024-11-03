@@ -1,4 +1,4 @@
-# 👋 Hello, I'm **Aman Singh**!
+# 👋 Hello, I'm **Aman Rana**!
 
 ![Aman Singh](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
