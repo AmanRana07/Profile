@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=00f7ff&style=flat-square&label=Profile+Views)](https://github.com/your-username)
+[![Profile Views](https://komarev.com/ghpvc/?username=AmanRana07&color=00f7ff&style=flat-square&label=Profile+Views)](https://github.com/AmanRana07)
 
 </div>
 
@@ -119,9 +119,9 @@ Currently   : Advancing railway infrastructure monitoring using AI
 
 <div align="center">
 
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&count_private=true&border_radius=10)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&border_radius=10)
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=tokyonight&border_radius=10)
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmanRana07&show_icons=true&theme=tokyonight&count_private=true&border_radius=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanRana07&layout=compact&theme=tokyonight&border_radius=10)
+![GitHub Streak](https://streak-stats.demolab.com?user=AmanRana07&theme=tokyonight&border_radius=10)
 
 </div>
 
