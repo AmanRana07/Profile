@@ -1,157 +1,110 @@
+# 👋 Hello, I'm **Aman Rana**! 🎮
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Computer+Vision+Specialist+%F0%9F%91%81%EF%B8%8F;Real-Time+Systems+Developer+%E2%9A%A1;Railway+AI+Monitoring+Expert+%F0%9F%9A%82)
+![Aman Singh](https://via.placeholder.com/800x200/0A0A0A/00FFAA?text=Aman+Rana+-+AI+Engineer)  
+*Level 42 Data Scientist | AI Game-Changer | Cricket Analytics Pro* 🏏
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120"/>
+---
 
-[![Visits](https://komarev.com/ghpvc/?username=your-username&color=00f7ff&style=flat-square&label=PROFILE+VIEWS)](https://github.com/your-username)
+## 🚀 About Me
+**Yo, I'm Aman Rana** — a **Data Scientist + Full-Stack AI Engineer** who's obsessed with turning raw data into game-winning strategies.  
 
+I've shipped **multiple high-impact AI software systems** — from real-time **Pantograph Monitoring & Spark Detection** (railway computer vision that catches electrical arcing before it becomes a problem) to proctoring tools, celebrity recognition engines, and sports analytics dashboards.  
+
+Whether it's training YOLO models at 3 AM or optimizing Spark pipelines for massive datasets, I live for that **"level complete"** moment when the AI actually works in the real world.  
+
+**Current Game Mode:** Building next-gen AI products that feel like cheat codes.  
+**Playstyle:** Fast, modern, and ridiculously accurate. ⚡
+
+---
+
+## 🔧 Tech Stack – My Ultimate Arsenal
+
+### 🧬 Languages
+<div style="display: flex; gap: 12px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge" alt="SQL" />
+</div>
+
+### 🧠 AI / ML Frameworks & Libraries
+<div style="display: flex; gap: 12px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/YOLO-00FF00?logo=ultralytics&logoColor=black&style=for-the-badge" alt="YOLO" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" alt="scikit-learn" />
+</div>
+
+### 🛠️ Frameworks & Tools
+<div style="display: flex; gap: 12px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" alt="Flask" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white&style=for-the-badge" alt="Apache Spark" />
+</div>
+
+### 🗄️ Databases
+<div style="display: flex; gap: 12px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" />
 </div>
 
 ---
 
-## ⚡ PLAYER STATS
-
-```yaml
-Name        : Aman Singh
-Class       : AI/ML Engineer · Computer Vision Specialist
-Location    : Delhi, India 🇮🇳
-XP Focus    : Deep Learning · Real-Time Video · Railway Systems
-Current Quest: Building production-grade AI monitoring systems
-Status      : 🟢 Online & Building
-```
+## 📊 My GitHub Stats
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🎮 SKILL TREE
+## 🌟 Key AI Software I've Built (Boss Battles Conquered)
 
-### 🧠 AI / ML
-![Python](https://img.shields.io/badge/Python-Expert-00f7ff?style=for-the-badge&logo=python&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8%2Fv11-Expert-ff6b6b?style=for-the-badge)
-![TensorRT](https://img.shields.io/badge/TensorRT-Advanced-76b900?style=for-the-badge&logo=nvidia&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-Expert-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+**🎯 Pantograph Monitoring & Spark Detection System**  
+Real-time AI railway monitoring platform. Detects pantograph faults and electrical arcing/sparks using YOLOv8 + OpenCV + custom CNNs. Deployed in production environments — saved thousands of hours of manual inspection. **(This one hits different 🔥)**
 
-### 🖥️ Systems & Hardware
-![Intel RealSense](https://img.shields.io/badge/Intel%20RealSense%20D435%2FD455-Calibrated-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-GPU%20Acceleration-76b900?style=for-the-badge&logo=nvidia&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX%20Runtime-Optimized-gray?style=for-the-badge)
+**🛡️ Smart Examination Portal**  
+AI-powered proctoring system with live anomaly detection using YOLO and OpenCV. Flags suspicious behavior in real-time. Used by 1000+ students.
 
-### 🌐 Web & Backend
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**🌟 Celebrity Recognition App**  
+End-to-end web app (Django + TensorFlow) that identifies celebrities from images using custom CNN architecture. Clean UI, blazing fast inference.
 
-### 🗄️ Databases & Tools
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**📈 Stock Price Prediction Engine**  
+GRU-based deep learning model with real-time forecasting dashboard. Built with Flask + Plotly for interactive trading insights.
+
+**🏏 Cricket Analytics Dashboard** (Currently in God Mode)  
+Image processing + ML models to analyze player performance, ball trajectory, and match strategy. Because cricket + data science = unstoppable combo.
 
 ---
 
-## 🚀 MISSIONS COMPLETED
-
-<details>
-<summary>🟦 <b>MAIN QUEST — Pantograph Analysis & Reporting System</b> (Atai India Pvt. Ltd)</summary>
-
-> **Objective:** Build a production-grade AI system to monitor railway pantograph health in real-time.
-
-- ⚡ Detected **electrical arcs and sparks** using custom-trained YOLO models
-- 📏 Measured **pantograph stagger & height** using Intel RealSense D435/D455 depth cameras
-- 🎥 Processed **dual-camera live video streams** with real-time inference at optimized FPS
-- 🗺️ Integrated **GPS tracking** for location-stamped event logging
-- 📊 Generated automated **PDF/Excel reports** with annotated frames and analytics
-- 🖥️ Built a full **PyQt5 desktop GUI** with live feed, alerts, and dashboard
-- 🔒 Packaged with **PyInstaller** into a secure, deployable `.exe`
-- 🚀 Optimized with **TensorRT & ONNX** for GPU-accelerated inference
-
-</details>
-
-<details>
-<summary>🟩 <b>SIDE QUEST — Smart Examination Portal with AI Proctoring</b></summary>
-
-> **Objective:** Create a cheat-proof online exam platform with AI surveillance.
-
-- 👁️ Real-time **face & object detection** using YOLO + OpenCV
-- 🏫 Django backend with role-based access for students and admins
-- 🚨 Automated alerts for suspicious activity during exams
-
-</details>
-
-<details>
-<summary>🟨 <b>SIDE QUEST — No-Ball Detection using Deep Learning</b></summary>
-
-> **Objective:** Automate no-ball decisions in cricket using computer vision.
-
-- 🏏 Trained deep learning models on cricket footage
-- 📐 Keypoint detection for foot-crease boundary analysis
-- 📄 Published as a research project
-
-</details>
-
-<details>
-<summary>🟥 <b>BONUS STAGE — Celebrity Recognition Web App</b></summary>
-
-> **Objective:** Identify celebrities from images using CNN.
-
-- 🧠 Built and trained a CNN classifier
-- 🌐 Deployed as a web app with Flask
-
-</details>
-
-<details>
-<summary>🟪 <b>BONUS STAGE — Stock Price Prediction</b></summary>
-
-> **Objective:** Forecast stock prices using deep learning.
-
-- 📈 Implemented **GRU (Gated Recurrent Unit)** architecture
-- 📊 Visualized predictions vs actual values with analytics dashboard
-
-</details>
+## 🌱 Currently Leveling Up
+- Advanced Multimodal AI (Vision + Language models)
+- Edge AI deployment for real-time industrial systems
+- MLOps & Production-grade AI pipelines
+- Image Processing in Sports Analytics (Cricket edition 🏏)
 
 ---
 
-## 📊 LEADERBOARD
-
-<div align="center">
-
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true&border_color=00f7ff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&border_color=00f7ff)
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=radical&border=00F7FF)
-
-</div>
+## 💬 Let's Connect & Play
+- **LinkedIn** → [Connect](https://linkedin.com/in/yourprofile)
+- **Twitter / X** → [@yourhandle](https://twitter.com/yourhandle)
+- **Email** → aman.rana.ai@gmail.com
 
 ---
 
-## 🌱 ACTIVE RESEARCH NODES
-
-```diff
-+ TensorRT model quantization & INT8 inference
-+ Stereo vision and 3D depth reconstruction
-+ Multi-camera synchronization for railway monitoring
-+ Distributed AI monitoring systems
-+ Model encryption & deployment security
-```
+## 🎨 A Little Fun – Loading Screen
+![Coding GIF](https://media.giphy.com/media/3o7btPCcdH2tN9pF2M/giphy.gif)  
+*When the model finally converges at 2:47 AM*
 
 ---
 
-## 🎯 CURRENTLY PLAYING
+## 👨‍💻 Fun Fact
+I don’t just watch cricket — I **reverse-engineer** it with data science. Every six I see gets analyzed like it’s a boss fight. 🏏📊
 
 ---
 
-## 📡 CONNECT WITH THE PLAYER
+### 🌟 Thanks for visiting my profile, Legend!  
+Drop a star ⭐ if you’re building the future too. Let’s create some AI magic together.  
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
-</div>
-
----
-
-<div align="center">
-
-![Coding GIF](https://media.giphy.com/media/hpI6CCAdMiTzq/giphy.gif)
+**Game on. Always.** ⚡🎮
